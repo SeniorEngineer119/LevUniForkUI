@@ -32,7 +32,7 @@ import { OpenClaimAddressModalAndRedirectToSwap, RedirectPathToSwapOnly, Redirec
 import Vote from './Vote'
 import VotePage from './Vote/VotePage'
 
-import imgBg from '../assets/images/background.png';
+import imgBg from '../assets/images/background.png'
 
 const Background = styled.div`
   position: absolute;

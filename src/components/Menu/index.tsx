@@ -104,7 +104,7 @@ export default function Menu() {
       </StyledMenuButton>
 
       {open && (
-        <MenuFlyout style = {{backgroundColor:'#212429'}}>
+        <MenuFlyout style={{ backgroundColor: '#212429' }}>
           <MenuItem id="link" href="https://uniswap.org/">
             <Info size={14} />
             About

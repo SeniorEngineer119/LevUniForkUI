@@ -50,7 +50,7 @@ export function colors(darkMode: boolean): Colors {
     // backgrounds / greys
     bg1: darkMode ? '#212429' : '#FFFFFF',
     bg2: darkMode ? '#000000' : '#F7F8FA',
-    bg3: darkMode ? '#000000' : '#EDEEF2',//settings button
+    bg3: darkMode ? '#000000' : '#EDEEF2', //settings button
     bg4: darkMode ? '#565A69' : '#CED0D9',
     bg5: darkMode ? '#6C7284' : '#888D9B',
 
