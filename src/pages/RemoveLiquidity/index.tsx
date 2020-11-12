@@ -8,7 +8,7 @@ import ReactGA from 'react-ga'
 import { RouteComponentProps } from 'react-router'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'
-import { ButtonPrimary, ButtonLight, ButtonError, ButtonConfirmed } from '../../components/Button'
+import { ButtonPrimary, ButtonLight1, ButtonError, ButtonConfirmed } from '../../components/Button'
 import { LightCard } from '../../components/Card'
 import { AutoColumn, ColumnCenter } from '../../components/Column'
 import TransactionConfirmationModal, { ConfirmationModalContent } from '../../components/TransactionConfirmationModal'
@@ -648,7 +648,7 @@ export default function RemoveLiquidity({
             )}
             <div style={{ position: 'relative' }}>
               {!account ? (
-                <ButtonLight onClick={toggleWalletModal}>Connect Wallet</ButtonLight>
+                <ButtonLight1 onClick={toggleWalletModal}>Connect Wallet</ButtonLight1>
               ) : (
                 <RowBetween>
                   <ButtonConfirmed
