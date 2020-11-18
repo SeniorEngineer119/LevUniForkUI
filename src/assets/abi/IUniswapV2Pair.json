@@ -717,21 +717,14 @@
   "ast": {
     "absolutePath": "/Volumes/Work/Work/LevFork/SmartContract/core/contracts/interfaces/IUniswapV2Pair.sol",
     "exportedSymbols": {
-      "IUniswapV2Pair": [
-        2210
-      ]
+      "IUniswapV2Pair": [2210]
     },
     "id": 2211,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 1970,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.5",
-          ".0"
-        ],
+        "literals": ["solidity", ">=", "0.5", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:24:10"
       },
@@ -742,9 +735,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 2210,
-        "linearizedBaseContracts": [
-          2210
-        ],
+        "linearizedBaseContracts": [2210],
         "name": "IUniswapV2Pair",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -3558,21 +3549,14 @@
   "legacyAST": {
     "absolutePath": "/Volumes/Work/Work/LevFork/SmartContract/core/contracts/interfaces/IUniswapV2Pair.sol",
     "exportedSymbols": {
-      "IUniswapV2Pair": [
-        2210
-      ]
+      "IUniswapV2Pair": [2210]
     },
     "id": 2211,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 1970,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.5",
-          ".0"
-        ],
+        "literals": ["solidity", ">=", "0.5", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:24:10"
       },
@@ -3583,9 +3567,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 2210,
-        "linearizedBaseContracts": [
-          2210
-        ],
+        "linearizedBaseContracts": [2210],
         "name": "IUniswapV2Pair",
         "nodeType": "ContractDefinition",
         "nodes": [

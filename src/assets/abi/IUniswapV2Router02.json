@@ -870,21 +870,14 @@
   "ast": {
     "absolutePath": "/Volumes/Work/Work/LevFork/SmartContract/periphery/contracts/interfaces/IUniswapV2Router02.sol",
     "exportedSymbols": {
-      "IUniswapV2Router02": [
-        5195
-      ]
+      "IUniswapV2Router02": [5195]
     },
     "id": 5196,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 5149,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2"
-        ],
+        "literals": ["solidity", ">=", "0.6", ".2"],
         "nodeType": "PragmaDirective",
         "src": "0:24:12"
       },
@@ -921,17 +914,12 @@
             "src": "94:18:12"
           }
         ],
-        "contractDependencies": [
-          5147
-        ],
+        "contractDependencies": [5147],
         "contractKind": "interface",
         "documentation": null,
         "fullyImplemented": false,
         "id": 5195,
-        "linearizedBaseContracts": [
-          5195,
-          5147
-        ],
+        "linearizedBaseContracts": [5195, 5147],
         "name": "IUniswapV2Router02",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -1515,21 +1503,14 @@
   "legacyAST": {
     "absolutePath": "/Volumes/Work/Work/LevFork/SmartContract/periphery/contracts/interfaces/IUniswapV2Router02.sol",
     "exportedSymbols": {
-      "IUniswapV2Router02": [
-        5195
-      ]
+      "IUniswapV2Router02": [5195]
     },
     "id": 5196,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 5149,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2"
-        ],
+        "literals": ["solidity", ">=", "0.6", ".2"],
         "nodeType": "PragmaDirective",
         "src": "0:24:12"
       },
@@ -1566,17 +1547,12 @@
             "src": "94:18:12"
           }
         ],
-        "contractDependencies": [
-          5147
-        ],
+        "contractDependencies": [5147],
         "contractKind": "interface",
         "documentation": null,
         "fullyImplemented": false,
         "id": 5195,
-        "linearizedBaseContracts": [
-          5195,
-          5147
-        ],
+        "linearizedBaseContracts": [5195, 5147],
         "name": "IUniswapV2Router02",
         "nodeType": "ContractDefinition",
         "nodes": [
